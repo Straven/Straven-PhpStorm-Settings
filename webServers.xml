@@ -1,0 +1,61 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f5e90c8f-61f3-4b73-87c1-46d391ed534c" name="chasmaistriv" url="http://chasmaistriv.com.ua/">
+        <fileTransfer host="91.239.234.140" port="22" rootFolder="/home/bitrix" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="40b14f31-7961-4976-b1bf-8a6e2cc851d4" name="tellur" url="http://tellur.com.ua">
+        <fileTransfer host="194.28.84.216" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="57831cec-da0a-40ce-8cce-026b10d0263e" name="gayariart" url="http://dazhd.ftp.ukraine.com.ua">
+        <fileTransfer host="dazhd.ftp.ukraine.com.ua" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="48600ea0-0094-4bea-839d-99d6e1d3533a" name="laravel-intro" url="http://laravel-intro.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="f4b688c0-0f11-437b-b1a1-d61470743aca" name="opt-k.com" url="http://opt-k.com">
+        <fileTransfer host="b2711.dhpage.net" port="21" rootFolder="/www/opt-k.net">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0b64b338-eb06-4906-873f-1860e86f8e0d" name="basic" url="http://basic/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="3a730036-ba97-465f-bab1-e91cd45cb504" name="product-list.basic" url="http://product-list.basic/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="76d1f78c-195e-4157-8d63-66ee7edb9f1b" name="hello-yii2.local" url="http://hello-yii2.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="5b3ce5a5-2597-46b5-9b57-f3ecf26e0fbf" name="shina-servis" url="http://shina-servis67.ru/">
+        <fileTransfer host="188.225.32.17" port="22" rootFolder="/home/bitrix/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAACcNreaTDdScf3CH5DA4f2+OQzh5FDMNCPIlG5pAW5dn2JgNPpKdps75GztlnN45oWbKYTTN7gkXqzXUPfCAnOW2Z7/k2SnEQLPuOl+QpcGRc+hr8OKByduyfsLWC+jorouresLPuMvN4XH0p1+5YTcHucNl5QZvsyUtS1HAtKQc5DvnpXcrZ2awGS5yczJw+pBRsHNzwbt2ShGtb9pg4wp9rvxL8RyL7Syfcw2U85l9Bc8iOPVviw2whJVqjeyBdLeKoI8C2Ve0WL+pz9vSl230WFBQ9jREost0eST+yHV577TM6e3Nn7JBeM2KH4bHf0fAkB2R9++BxzYKsTQTP5C7/RRCjRQnSNUR2SGUIdOWwWqSjECXgnVy8vxSt1Zuz4Vpb8i+FbmlHbYSu+u9XlVQDDi7Fx3JMQrhaS3kcgJVgCGtx5qJIJcG42U9WQKubVpCtqIzrfzCRjdB5ZUZHhVIjmtuy/s8Io2jFOFX7xwsAfnevk1F+bx8elZKC3LTvWq6I4HCqRxmkYxek3v4N9KqaKBgW0IvGg57oThkqa6cHWW8XX+Hs5bAU77maKK8sPsCDSCaM+2Ep9o3gMDOw9FV62Um1NNq14LFPT3jaU20gk4ALTAamdeu/3mGD0GT86YRJ0hYXTQvFI859nJrWxzxrpAv2KdHYgwpFQz0VDpmxCAW/PZSz/tZltZfHt41Gubuc1BoBGYpKv7gCXsMdn8LcbIpA3QI4fMd6YclZYWx5JQwVZWAfkTPZ0789JMrljvP/cNlz9ZifgMskKp8x+U+MbppvqIokBBf3Tvv8yFEXb4aZcaU5H4F2F/Xh9LOSsnzLxD3rTu3zfOgqqZvpKzu0=</data>
+  </component>
+</application>
