@@ -53,9 +53,12 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="cbe37311-c980-48f1-bb97-f36d3efd2358" name="meetingplanner.test" url="http://meetingplanner.test/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAACcD4V1d94GYCZpnebimG4SQr4KPIDd4Xm2llrF8pJGVV8bRXHTdwHYNCK1+qRz/bVekzf4T2XBEGIdVLJKyWbbkTltWYizq9mVRssSZHxk/FTx3vbdLffsLaDer5hIhlSZC8oqIfZuJEw9Y/GbIvXdrTo+A8mqxVa9byfvsCXFZBjZ+fy26AIyK9DNPYmg+o1AMmq28NyO3iC8mHow8wOjN1hVHLi1VouuWxazrWlQLiDUTafLPC31uSGOfBMNJpUYqZirjMNxmYE/nLRjHhjNqVjpxb1vI6zDh8wLc9Ddg4Dk2Hi0e6FGh+WGNJ2Xoeez07sPashmS9lQmqMWjBKMxSvzCwZ7Qb5n8gS3yotJ3qyG8rYsiKIop8rogLJ5xOOeOX0/uJsiV68pTkxqOwAHEcFqnIDI2y+tZeKW9V74rt//atymuWXBMyGPdHBDVqcmPS3HwOj+1fDKamamo4/XStNlXiUVbGfd8AlvblR2shGa7ezuUFEejD7jPOtJxmT4bYiJr2MnyGt+o/ieEm6/buJjtZUsJwJCx/hlQLdBZmLbnD6Kch73jSdtihBUgAEzPPQLCFgGVHDsaf8PdPOY4L6ToxrpKZeB4UP2iZBovbTck/yTNASeO9ldclhx2+52ZIY3idHwIx3TO6uuYmbN0ZG4ESnNuRCrvaucaUmA9MAkHIKr0mCf0sE8SE3RLkd9JRqXuLEFIEnk2Cuihjzt2LJH17NiKylWocX5hecccyd63u8divX/1X3WBd7GokvZskAiMb29HYPE5YPCtm+xeQZfwpRGP+vbXdZP2s53cWOob/oQr0y6lZcmRXPAnSupKh+dijY8uH6/tSlUn+F1qQ=</data>
+    <data>AAACcJtjuVI8OnYmCJobQld3Sr+xjjjYgmNqMkrVTyVMXPSybTxbxcc4OWjjyVkHcfs7yVwZMq9bclaFmdH4Q4vq2MXBDiZo902ugbxU+44jw/BbWaMqcMThJdyU8mVkhvzRFnlTFodC9br8SENcTwDJuODZaulaOqkEul1rC4iGLn7Nt76gh3k86+YkjeAy+MTrz47UzWKz0l7rf2FSPSJ4BdNArFdlFR6BORnKQD98GKrl67HmHPFhdVFffGeg6aD/0lmA4p9Uy85PHNsqbBj0zI8XqAObD7Vk2/HczDcA5H0WZcqE5el7ImqaDf1ZvMrYMs48tf5hBtgg8s0K1n0+nFtWb62lAuq73fz274t1PZCyNUImdMRVljs6m78P2Qvchj6TdsCyl7lhA7dcUwg4Sf9B8GGaQDoRGUKEi0ZPgTd7HrBOt8QYlC4YdpWAUT5k6aqEorarE+Dfg+EHGFxpL+MDI1c472MO/GZHNMFmhIS9V5AcF4x/UtfKM0U0HRm3I7cR5HESAMT26saXYsmR1eEncTDwfnFxWuFKJqonCusjNESB9UBOpmjz58NOQqdfcCjLLKmtCg26TqX6jdSKK3yYZv78qvv5tHc7eeFixB4P9/JmTN/EKRkodGiK8lkpU8QGR+rg+RrFKyDMer+WT6egygoZAl2t5nRGUsw0aiE2vhCZjZzZeD5fFEiiZQ/S7SR7RD/Fy0tetL6vBKla+hHyUiL3+L9fix0bidm5HMrpT03SN+yvxYBhfYlcBaKRQDg+Xmh1/TZZeoCyjnXSt4AjGhpzkYlyI3mtv52ur3+yaV7LUw62JEuoVJ/McyUcxILjXIMks+lEUS2eZBBGxkU=</data>
   </component>
 </application>
