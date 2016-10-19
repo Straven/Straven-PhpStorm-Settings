@@ -56,9 +56,12 @@
       <webServer id="cbe37311-c980-48f1-bb97-f36d3efd2358" name="meetingplanner.test" url="http://meetingplanner.test/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="9dbdc341-1500-4916-99ae-1b691248b3c1" name="seo-basic.local" url="http://seo-basic.local/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAACcMTE44FmvXPwbNFuuUvHd+aHtN1PMONTMnw7SvxSdzipURSkHSJSZzk34suiLfsv27dgSTLnLrayoOObJLZlBgYNR7SHnRbDgjlAL+3ncYfDIUIrDIcvWFxjmOg+cbn8o/zR1XmmhJixI7PLsvbHO4ZXrh4j4T6WrGaCDyHQVKyIF0M6DUM5KE4NnqLA91eorv9gyw2qYPVbhJOMmaF7WM3qEY+5lt9Xr7AhyRXZzSdsxm/1lfDiFHkvliH0E9cTDaKmivy1/zRpUvBvaUI80q/YPo8HdumMsRxwZc+UD4g59X9psW93fPI/x66Bn/07qIMSIneFhZaQPCCKlckbGG23nrFy7vvuL7FEeZPEH0Pmt9Pr+KNqLLYV9z19jxbubVbO2Hnosg6y7ANV5oi5ABKMCJi0Tbt290EMg8cWwc/qI3yNGIaI3iguPGfuc65MN1A9WwvsEBJT+EEctYUUQI1bqsy1qGorBw6P1ePVUlWWQpWV2uXTupD2aMDMoButh54SVEPezPiJyxdWxn9r6d7BvwuxKczoBhdSszMhhtdVi6yn2EyZ71zj3V7yGYKIB4IA/ZnhXPYLE7OJdK0GnbywXNudG/rYlM+JLavKK8YLGawlZThTlcXda0krCttqrVnLolyLUhQ4d5fVOGpgMp5PANHbyvdLkJlv+vuV/v7svnB6EafCf4iM1Um9KFrRuf4fFsP3VSrG6V38auyvs0+6UQOQao2pbV11LkVeGJH6a7e/IE/VyMJt0vgb1PipeROr8XQVhJk68tEZDp/syhzs/kKa/7SSJ3Y6/LcxhsblY5pWNXBCHdE0ZMChbTqkwQm/VmcHZ3NgO/QdhWWwD1U=</data>
+    <data>AAACcANLlwW4bh6lhV8i4eLS/Kfry9oe7LTM+mimZ0AdHC776OxJVaLNV//jZ62PnmxVxhyOmkbyNF5Ky0n0GLgxRh+G7msNZtcW1ouAIlAxfvDSBWIkcw3fqy1LZ92P1JwVJmRk3yf1MrgSbbvmodn3vwPNwBR3+F4ydtNuV1E2gk16a3Ty0IgvbXOi/R41m2UfAgYXELtCgO6Gw9JTd2AauSHx96L6OOObYCPO0JOYAmkmuu1UyXerdExj573qVrVDNIi2gUOv5+k7PZWmReFIxOvCjlp+ZWb1gp/RvWHPRW4Q1M3aMN+QVvVtAppKtBk6xzu7SLS2V8iZISwjZZwcil7LYSqhWD0dDcRJ3QgePQy58CQzzadZVB6nB/yTyyM1es7F/lDPRFiU1kPe3rfYVIZkMfN1RxNbhzFMIryo4jXgNZLXgdiC+UwQTpWDUCa0ZEEFn8V4KttA7zxH4djfGYrMVNIjVTleot+zzos2pBhsRxV4WjZybQAIwvpwmfN1kgg5smYjlFEw8f8eGMcrGqhHpeX8i7pnpgZnseHYD/jujfE2puuVGvhRQ9ikbqIoFU0ljUfctyEdvTGiDvlpsYZdqCeztSVOMDx65uQtLQGkI4nje6BzcYiwM5s10WPguQyhnaTGOglLmAhJuXQ5aaHHBXuvAZ9SGvpxT+OgmRURg9vYm+5qr4L8NW+0a6ITRBlNx7NBYKmUC6SmtVzAIuKZYjt2MkaFqAzC7FGz7vme2Myt14Ha1SViPzowacdsJkzm18bQNnCURtI8cMkrA8MB6KcE70xhFGAhPAKUMkpAgHDz02C6qL03tSBbvFpcSXNdtDAtR6LyBMcoZSTItjU=</data>
   </component>
 </application>
