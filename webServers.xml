@@ -59,9 +59,12 @@
       <webServer id="9dbdc341-1500-4916-99ae-1b691248b3c1" name="seo-basic.local" url="http://seo-basic.local/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="4a424ef2-6662-46c1-be17-f4d972f31a12" name="nikolaj-sarry.local" url="http://nikolaj-sarry.local/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAACcANLlwW4bh6lhV8i4eLS/Kfry9oe7LTM+mimZ0AdHC776OxJVaLNV//jZ62PnmxVxhyOmkbyNF5Ky0n0GLgxRh+G7msNZtcW1ouAIlAxfvDSBWIkcw3fqy1LZ92P1JwVJmRk3yf1MrgSbbvmodn3vwPNwBR3+F4ydtNuV1E2gk16a3Ty0IgvbXOi/R41m2UfAgYXELtCgO6Gw9JTd2AauSHx96L6OOObYCPO0JOYAmkmuu1UyXerdExj573qVrVDNIi2gUOv5+k7PZWmReFIxOvCjlp+ZWb1gp/RvWHPRW4Q1M3aMN+QVvVtAppKtBk6xzu7SLS2V8iZISwjZZwcil7LYSqhWD0dDcRJ3QgePQy58CQzzadZVB6nB/yTyyM1es7F/lDPRFiU1kPe3rfYVIZkMfN1RxNbhzFMIryo4jXgNZLXgdiC+UwQTpWDUCa0ZEEFn8V4KttA7zxH4djfGYrMVNIjVTleot+zzos2pBhsRxV4WjZybQAIwvpwmfN1kgg5smYjlFEw8f8eGMcrGqhHpeX8i7pnpgZnseHYD/jujfE2puuVGvhRQ9ikbqIoFU0ljUfctyEdvTGiDvlpsYZdqCeztSVOMDx65uQtLQGkI4nje6BzcYiwM5s10WPguQyhnaTGOglLmAhJuXQ5aaHHBXuvAZ9SGvpxT+OgmRURg9vYm+5qr4L8NW+0a6ITRBlNx7NBYKmUC6SmtVzAIuKZYjt2MkaFqAzC7FGz7vme2Myt14Ha1SViPzowacdsJkzm18bQNnCURtI8cMkrA8MB6KcE70xhFGAhPAKUMkpAgHDz02C6qL03tSBbvFpcSXNdtDAtR6LyBMcoZSTItjU=</data>
+    <data>AAACcCaaytNmnLqyX5q3NOqFD53huX64awzbLmDA83sdMmmnAdXv0gO5JWuPBEfgjVe0mEt3XtP8mrgvpfDVHnEBhJ9fkT1+4su4k5hpZ/T3lFtQccRUwM1cX3MlCuydUDZZ2aGLg7HpgxjrmUcaz9pUGhT8FjIfAkzW4XmmstFZx+hd1WiTDT2Z3j8w9E5Nj53sVRMOY7jwW1P+RRY1hvXHvr4WFP6lb59TzMCsnFMlX8WrJAqpVJqnBhPPbVl5qNmIh8b0TXd5/RzgRz/LSCQwka/X7qMVnadG/pRSHx7C5pJx6mP5qsBGPrdnw4g6TtoFN4VfL/UDNVwj4MT332sJfrZtYREVQJYQrCX0mMZKyf/kgbIScVPvgHC/KR7caBo17wMXAN98h/27cLBzAwEmQp8ld7iuRiyJ/G+0d9Di68skiwGejDCpAw/4Tmygmy6WqOwG4brZn9qqRxMMG8N8mqZ+kVs6sMW1UeOWzV3ocn9Uy3n5Cq4bK7lFK7xbJS0O6ESkacdx90xHdZFcW2RFiJkv++6GfZH4WOC6gVWNPIUjvUJsZqhJt6Yfwo6UX+Sr7/h6pSpYS6vL1o+JCVrjadWkxQtpKepLhlDvnW9JqCiTY7LlMQFnwc3mxf9SgKY0T6E5RjI72tnte89i1OanEnk+zBeFJm0CuCdGbmTuyMUmxBgx1p54Erhgotm2E0KiB8C9okMAXDhR6aWXGQSV+N7wUU2dixgnHsKaMWMfPdTEto0DmVW78BRnnP4igcyJwpZcBhjBs+B/62CuKeE1kJL1ay7srZ6XZLlfxHjsw11zy5HWPytff7iUQQB7wVazhdMRoAJ3c68LK30NI8CS+6Y=</data>
   </component>
 </application>
