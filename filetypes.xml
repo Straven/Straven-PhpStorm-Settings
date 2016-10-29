@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="_formGeolocate" type="PHP" />
       <mapping pattern="init" type="PHP" />
+      <mapping pattern="Html5ShivAsset" type="PHP" />
       <mapping pattern="yii" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
