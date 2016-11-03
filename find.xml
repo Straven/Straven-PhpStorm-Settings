@@ -3,5 +3,18 @@
     <option name="customScope" value="Project 'seo-basic.local'" />
     <option name="defaultScopeName" value="Project 'seo-basic.local'" />
     <option name="SEARCH_SCOPE" value="Project 'seo-basic.local'" />
+    <option name="FILE_MASK" value="*.css" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.mxml</mask>
+      <mask>*.php</mask>
+      <mask>*.css</mask>
+    </recentFileMasks>
   </component>
 </application>
