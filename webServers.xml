@@ -78,6 +78,9 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="843560b7-155a-410f-ab21-4c14149d0fb1" name="seo-project.loc" url="http://seo-project.loc/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
