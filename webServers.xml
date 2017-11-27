@@ -81,6 +81,9 @@
       <webServer id="843560b7-155a-410f-ab21-4c14149d0fb1" name="seo-project.loc" url="http://seo-project.loc/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="59853503-7896-48d2-b7b1-559f4df969d6" name="seo service yii2" url="http://seo.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
