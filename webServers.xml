@@ -84,6 +84,9 @@
       <webServer id="59853503-7896-48d2-b7b1-559f4df969d6" name="seo service yii2" url="http://seo.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="b929e3d5-1000-432e-b874-ec315fae62f3" name="pmd" url="http://pmd.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
