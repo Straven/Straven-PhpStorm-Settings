@@ -62,14 +62,6 @@
       <webServer id="4a424ef2-6662-46c1-be17-f4d972f31a12" name="nikolaj-sarry.local" url="http://nikolaj-sarry.local/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="8eb3c9ab-a425-456e-98d0-d94a8522baf6" name="straven-web" url="http://78.47.193.199">
-        <fileTransfer host="78.47.193.199" port="22" rootFolder="/home/straven/web" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="8cd01a5b-ee83-43c7-99d3-bd410b916631" name="maxbuildg" url="http://maxbuildg.com.ua">
         <fileTransfer host="91.239.232.60" port="22" accessType="SFTP">
           <advancedOptions>
@@ -86,6 +78,14 @@
       </webServer>
       <webServer id="b929e3d5-1000-432e-b874-ec315fae62f3" name="pmd" url="http://pmd.test">
         <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="c447d6a9-e0b4-4bad-8610-4a37f6928251" name="nikolaj-sarry.info" url="https://nikolaj-sarry.info">
+        <fileTransfer host="94.130.224.179" port="22" rootFolder="/var/www/vhosts/nikolaj-sarry.info/httpdocs" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
       </webServer>
     </option>
   </component>
