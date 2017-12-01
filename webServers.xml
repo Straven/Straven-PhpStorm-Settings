@@ -10,7 +10,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="40b14f31-7961-4976-b1bf-8a6e2cc851d4" name="tellur" url="http://tellur.com.ua">
-        <fileTransfer host="194.28.84.216" port="22" accessType="SFTP">
+        <fileTransfer host="194.28.84.216" port="22" rootFolder="/home/bitrix/www" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
