@@ -87,6 +87,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="44987e0f-1981-4150-b3aa-c6de584a82c3" name="DoggyCouture" url="http://doggycouture.com.ua">
+        <fileTransfer host="185.67.3.109" port="21" rootFolder="/www/doggycouture.com.ua">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
