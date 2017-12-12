@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\bitrix\templates\romza_bitronic2_2.21.22 [DoggyCouture]'" />
-    <option name="defaultScopeName" value="Directory '...\bitrix\templates\romza_bitronic2_2.21.22 [DoggyCouture]'" />
-    <option name="SEARCH_SCOPE" value="Directory '...\bitrix\templates\romza_bitronic2_2.21.22 [DoggyCouture]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
