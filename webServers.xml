@@ -95,6 +95,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="5b023bee-a2db-4d72-95ed-8b71a93df6e7" name="fotopaper" url="http://photopaper.in.ua">
+        <fileTransfer host="195.191.25.185" port="22" rootFolder="/home/bitrix/ext_www/photopaper.in.ua" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
