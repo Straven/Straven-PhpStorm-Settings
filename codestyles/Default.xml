@@ -1,1 +1,5 @@
-<code_scheme name="Default" />
+<code_scheme name="Default" version="173">
+  <PHPCodeStyleSettings>
+    <option name="INDENT_CODE_IN_PHP_TAGS" value="true" />
+  </PHPCodeStyleSettings>
+</code_scheme>
