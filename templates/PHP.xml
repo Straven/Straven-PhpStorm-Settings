@@ -4,14 +4,4 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="php" value="&lt;?php $END$ ?&gt;" description="full php tags for one string of php code" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-  <template name="?=" value="&lt;?= $END$ ?&gt;" description="short php echo" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
 </templateSet>
