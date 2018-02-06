@@ -111,6 +111,9 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="de75e3b1-3977-44f8-8ae4-1f300b04360c" name="myframeworl.test" url="http://myframeworl.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
