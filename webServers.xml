@@ -103,6 +103,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="2c242e2e-c7cd-4853-96d9-f25476eb53d0" name="megagiga" url="http://195.191.25.185">
+        <fileTransfer host="195.191.25.185" port="22" rootFolder="/home/bitrix/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
