@@ -114,6 +114,9 @@
       <webServer id="de75e3b1-3977-44f8-8ae4-1f300b04360c" name="myframeworl.test" url="http://myframeworl.test">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="409f9d7d-5076-4816-8370-a57c29ed3cb8" name="test" url="http://test/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
