@@ -117,8 +117,8 @@
       <webServer id="409f9d7d-5076-4816-8370-a57c29ed3cb8" name="test" url="http://test/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="82ede1af-3f69-4ad4-bd3d-e6a953463888" name="1-giper" url="http://1-giper.com.ua">
-        <fileTransfer host="147.135.221.86" port="21" rootFolder="/1-giper.com.ua">
+      <webServer id="ba84e8d5-c238-4577-8c4a-cd27d9506490" name="kuz.ua" url="http://kuz.ua">
+        <fileTransfer host="kuz.ua" port="21" rootFolder="/kuz.ua">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
