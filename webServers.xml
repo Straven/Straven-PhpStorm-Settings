@@ -125,6 +125,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="c2c0b92a-c32a-4f28-a94a-fc7f9e366b5c" name="fasad" url="http://energofasad.com.ua">
+        <fileTransfer host="87.98.184.164" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
