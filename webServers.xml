@@ -133,6 +133,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="0ecfd056-f4cb-4c27-abd8-0c185664b6de" name="1-giper" url="http://1-giper.com.ua">
+        <fileTransfer host="147.135.221.86" port="21" rootFolder="/1-giper.com.ua">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
