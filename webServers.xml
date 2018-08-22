@@ -141,6 +141,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="da51f846-8ca8-47c0-8156-2b6a8fad4e57" name="Silver Studio" url="http://crm.silver-studio.com.ua">
+        <fileTransfer host="194.247.13.181" port="22" rootFolder="/home/bitrix/www" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
