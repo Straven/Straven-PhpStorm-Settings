@@ -1,0 +1,13 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="информации" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+        <entry key="RUSSIAN" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
