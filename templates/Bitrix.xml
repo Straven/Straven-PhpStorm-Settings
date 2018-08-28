@@ -49,4 +49,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="bplog" value="$this-&gt;WriteToTrackingService('$logmessage$');" description="writing to bussiness process log" toReformat="false" toShortenFQNames="true">
+    <variable name="logmessage" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
