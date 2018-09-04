@@ -1,6 +1,22 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Back">
+        <Item>
+          <IdeaActionID>Back</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
+          <Description>Back</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Forward">
+        <Item>
+          <IdeaActionID>Forward</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Right' or 'Button5 Click'</ShortCut>
+          <Description>Forward</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="New Scratch File">
         <Item>
           <IdeaActionID>NewScratchFile</IdeaActionID>
