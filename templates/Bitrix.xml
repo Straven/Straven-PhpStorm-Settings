@@ -6,45 +6,51 @@
     </context>
   </template>
   <template name="gra" value="$variable$ = $this-&gt;GetRootActivity();" description="get root activity" toReformat="false" toShortenFQNames="true">
-    <variable name="variable" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="variable" expression="phpVar" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="getvar" value="$varname$ = $rootActivity$-&gt;GetVariable('$varFromBP$')" description="get variable from bp" toReformat="false" toShortenFQNames="true">
-    <variable name="varname" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="rootActivity" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="varFromBP" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="getvar" value="$varname$ = $rootActivity$-&gt;GetVariable('$varFromBP$');" description="get variable from bp" toReformat="false" toShortenFQNames="true">
+    <variable name="varname" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <variable name="rootActivity" expression="phpVar" defaultValue="$rootActivity" alwaysStopAt="true" />
+    <variable name="varFromBP" expression="phpVar" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="setvar" value="$rootActivity$-&gt;SetVariable('$varFromBP$', $varname$)" description="set bp variable" toReformat="false" toShortenFQNames="true">
-    <variable name="rootActivity" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="setvar" value="$rootActivity$-&gt;SetVariable('$varFromBP$', $varname$);" description="set bp variable" toReformat="false" toShortenFQNames="true">
+    <variable name="rootActivity" expression="phpVar" defaultValue="$rootActivity" alwaysStopAt="true" />
     <variable name="varFromBP" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="varname" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="varname" expression="phpVar" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
   <template name="elgl" value="CIBlockElement::GetList($sortArray$, $filterArray$, false, false, $selectArray$);" description="iblock element get list" toReformat="false" toShortenFQNames="true">
-    <variable name="sortArray" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="filterArray" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="selectArray" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="sortArray" expression="" defaultValue="array()" alwaysStopAt="true" />
+    <variable name="filterArray" expression="" defaultValue="array()" alwaysStopAt="true" />
+    <variable name="selectArray" expression="" defaultValue="array()" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
   <template name="elsetpropex" value="CIBlockElement::SetPropertyValuesEx($elementID$, $iblockID$, $propertyArray$);" description="iblock element set property values ex" toReformat="false" toShortenFQNames="true">
-    <variable name="elementID" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="iblockID" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="propertyArray" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="elementID" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <variable name="iblockID" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <variable name="propertyArray" expression="" defaultValue="array()" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
   </template>
   <template name="mfa" value="CFile::MakeFileArray($fileID$);" description="make file array" toReformat="false" toShortenFQNames="true">
-    <variable name="fileID" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="fileID" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="bplog" value="$this-&gt;WriteToTrackingService('$logmessage$');" description="writing to bussiness process log" toReformat="false" toShortenFQNames="true">
+    <variable name="logmessage" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>
