@@ -9,6 +9,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Comment with Block Comment">
+        <Item>
+          <IdeaActionID>CommentByBlockComment</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+/' or 'Ctrl+Shift+NumPad /'</ShortCut>
+          <Description>Comment with Block Comment</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>
