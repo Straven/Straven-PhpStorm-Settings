@@ -6,6 +6,22 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Comment with Block Comment">
+        <Item>
+          <IdeaActionID>CommentByBlockComment</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+/' or 'Ctrl+Shift+NumPad /'</ShortCut>
+          <Description>Comment with Block Comment</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Copy">
+        <Item>
+          <IdeaActionID>$Copy</IdeaActionID>
+          <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
+          <Description>Copy</Description>
           <Count>4</Count>
         </Item>
       </Statistic>
@@ -25,6 +41,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="New Folder...">
+        <Item>
+          <IdeaActionID>FileChooser.NewFolder</IdeaActionID>
+          <ShortCut>'Alt+Insert' or 'Ctrl+N'</ShortCut>
+          <Description>New Folder...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="New Scratch File">
         <Item>
           <IdeaActionID>NewScratchFile</IdeaActionID>
@@ -33,12 +57,28 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Paste">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
+          <Description>Paste</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rename...">
         <Item>
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Replace...">
+        <Item>
+          <IdeaActionID>Replace</IdeaActionID>
+          <ShortCut>'Ctrl+R'</ShortCut>
+          <Description>Replace...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Safe Delete...">
@@ -70,6 +110,14 @@
           <IdeaActionID>$ShowTranslationDialogAction</IdeaActionID>
           <ShortCut>'Ctrl+Shift+O'</ShortCut>
           <Description>Show Translation Dialog...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Synchronize">
+        <Item>
+          <IdeaActionID>Synchronize</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Y'</ShortCut>
+          <Description>Synchronize</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
