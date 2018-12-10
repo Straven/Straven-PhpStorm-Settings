@@ -1,9 +1,4 @@
 <application>
-  <component name="GithubAccounts">
-    <account id="eed886e5-6d09-4113-ba30-190a4537abd8" name="Straven">
-      <server host="github.com" />
-    </account>
-  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="Straven" />
     <option name="AUTH_TYPE" value="BASIC" />
