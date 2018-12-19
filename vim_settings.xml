@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/BitrixWorkDir/snippets/Bitrix24/BP-PHPActivities/createListForGroup.php" timestamp="1545208349088">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="D:/BitrixWorkDir/snippets/Bitrix24/BP-PHPActivities/createListForGroup.php" timestamp="1545208517530">
+        <mark key="[" line="1187" column="35" />
+        <mark key="]" line="1187" column="36" />
+        <mark key="." line="1187" column="36" />
+        <mark key="^" line="1187" column="35" />
       </file>
     </filemarks>
     <jumps />
