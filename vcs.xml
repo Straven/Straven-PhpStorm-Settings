@@ -6,6 +6,10 @@
           <option name="url" value="git@gitlab.com:Straven/stravens-loft.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Straven/Bitrix-WorkDir.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\darth\PhpstormProjects" />
