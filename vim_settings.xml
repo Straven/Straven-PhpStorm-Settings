@@ -1,0 +1,30 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/BitrixWorkDir/snippets/Bitrix24/BP-PHPActivities/createListForGroup.php" timestamp="1545208349088">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">PD9waHAKLyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IE5pa29sYWogU2FycnkKICogRGF0ZTogMDYuMTIuMjAxOAogKiBUaW1lOiAxMDoyNAogKi8KCi8vY3JlYXRlIGxpc3QgZm9yIGdyb3VwCiRpYiA9IG5ldyBDSUJsb2NrOwokYXJGaWVsZHMgPSBbCiAgICAnQ09ERScgPT4gJ2xpc3RfZnJvbV9hcGknLAogICAgJ0lCTE9DS19UWVBFX0lEJyA9PiAnbGlzdHNfc29jbmV0JywKICAgICdOQU1FJyA9PiAnTGlzdCBjcmVhdGVkIGZyb20gQVBJJywKICAgICdBQ1RJVkUnID0+ICdZJywKICAgICdTT0NORVRfR1JPVVBfSUQnID0+IDEyLAogICAgJ0xJRCcgPT4gJ3MxJywKICAgICdCSVpQUk9DICcgPT4gJ1knCl07CgokaWItPkFkZCgkYXJGaWVsZHMpOwoKLy9jcmVhdGUgZmllbGRzIGZvciBjcmVhdGVkIGxpc3QKJGFyRmllbGQxID0gWwogICAgJ0lCTE9DS19JRCcgPT4gMzAsCiAgICAnQ09ERScgPT4gJ0FQVEVLQV9OQU1FJywKICAgICdOQU1FJyA9PiAnzeDn4uDt6OUg4O/y5eroJywKICAgICdBQ1RJVkUnID0+ICdZJywKICAgICdJU19SRVFVSVJFRCcgPT4gJ1knLAogICAgJ1NPUlQnID0+IDIwLAogICAgJ1BST1BFUlRZX1RZUEUnID0+ICdTJywKICAgICdNVUxUSVBMRScgPT4gJ04nCl07CgokaWJwID0gbmV3IENJQmxvY2tQcm9wZXJ0eTsKJGlicC0+QWRkKCRhckZpZWxkcyk7</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PD9waHAKLyoqCiAqIENyZWF0ZWQgYnkgUGhwU3Rvcm0uCiAqIFVzZXI6IE5pa29sYWogU2FycnkKICogRGF0ZTogMDYuMTIuMjAxOAogKiBUaW1lOiAxMDoyNAogKi8KCi8vY3JlYXRlIGxpc3QgZm9yIGdyb3VwCiRpYiA9IG5ldyBDSUJsb2NrOwokYXJGaWVsZHMgPSBbCiAgICAnQ09ERScgPT4gJ2xpc3RfZnJvbV9hcGknLAogICAgJ0lCTE9DS19UWVBFX0lEJyA9PiAnbGlzdHNfc29jbmV0JywKICAgICdOQU1FJyA9PiAnTGlzdCBjcmVhdGVkIGZyb20gQVBJJywKICAgICdBQ1RJVkUnID0+ICdZJywKICAgICdTT0NORVRfR1JPVVBfSUQnID0+IDEyLAogICAgJ0xJRCcgPT4gJ3MxJywKICAgICdCSVpQUk9DICcgPT4gJ1knCl07CgokaWItPkFkZCgkYXJGaWVsZHMpOwoKLy9jcmVhdGUgZmllbGRzIGZvciBjcmVhdGVkIGxpc3QKJGFyRmllbGQxID0gWwogICAgJ0lCTE9DS19JRCcgPT4gMzAsCiAgICAnQ09ERScgPT4gJ0FQVEVLQV9OQU1FJywKICAgICdOQU1FJyA9PiAnzeDn4uDt6OUg4O/y5eroJywKICAgICdBQ1RJVkUnID0+ICdZJywKICAgICdJU19SRVFVSVJFRCcgPT4gJ1knLAogICAgJ1NPUlQnID0+IDIwLAogICAgJ1BST1BFUlRZX1RZUEUnID0+ICdTJywKICAgICdNVUxUSVBMRScgPT4gJ04nCl07CgokaWJwID0gbmV3IENJQmxvY2tQcm9wZXJ0eTsKJGlicC0+QWRkKCRhckZpZWxkcyk7</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>
